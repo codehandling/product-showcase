@@ -7,7 +7,7 @@ The Fastest 5KB Image Slider with Icons!!
 This plugin will create a simple image slider with icon controls and overlay text.
 <br>
 <br>
-<b>Documentation:</b> coming soon..
+<b>Documentation:</b> http://www.codehandling.com/2016/03/icon-slider-documentation.html
 <br>
 <b>Demo:</b> http://demos.codehandling.com/iconslider/icon_slider.html
 <br>
