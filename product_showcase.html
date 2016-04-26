@@ -1,0 +1,79 @@
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width">
+
+	<script src="./jquery/jquery-1.9.1.min.js"></script>
+	<script src="./js/product-showcase.js"></script>
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link href='./css/product-showcase.css' rel='stylesheet' type='text/css'>
+
+<style>
+
+
+</style>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+
+    $(".product-showcase").productShowcase({
+	   maxHeight:"550px",	
+	   width:"100%",
+	   iconSize:"90px"
+	});
+
+});
+
+</script>
+
+</head>
+
+<body>
+
+
+	<div class="product-showcase" >
+
+		<div class="ps-icon"
+		data-icon="./images/icon1.jpg"
+		data-image="./images/slide1.jpg"
+		data-title="Fruit Basket"
+		data-description="Health Score (7/10)"
+		data-button-text="Buy Now!"
+		data-button-link="http://www.codehandling.com"
+		data-align="right"
+		data-selected="true"
+		data-text-highlight="true"></div>
+
+
+		<div class="ps-icon"
+		data-icon="./images/icon2.jpg"
+		data-image="./images/slide2.jpg"
+		data-title="Vegetable Basket"
+		data-description="Health Score (9/10)"
+		data-button-text="Buy Now!"
+		data-button-link="http://www.codehandling.com"
+		data-align="right"
+		data-text-highlight="false"></div>
+
+
+		<div class="ps-icon"
+		data-icon="./images/icon3.jpg"
+		data-image="./images/slide3.jpg"
+		data-title="Pizza Basket"
+		data-description="Health Score (5/10)"
+		data-button-text="Buy Now!"
+		data-button-link="http://www.codehandling.com"
+		data-align="right"		
+		data-text-highlight="true"></div>
+
+	</div>
+
+
+
+
+
+</body>
+</html>
