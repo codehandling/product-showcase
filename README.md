@@ -1,7 +1,7 @@
-Icon Slider
+Product Showcase
 =====
 
-The Fastest 5KB Image Slider with Icons!!
+Nice way to present your Top Products on your website!!
 <br>
 <br>
 This plugin will create a simple image slider with icon controls and overlay text.
@@ -9,7 +9,7 @@ This plugin will create a simple image slider with icon controls and overlay tex
 <br>
 <b>Documentation:</b> http://www.codehandling.com/2016/03/icon-slider-documentation.html
 <br>
-<b>Demo:</b> http://demos.codehandling.com/iconslider/icon_slider.html
+<b>Demo:</b> http://demos.codehandling.com/product-showcase/product_showcase.html
 <br>
 
 Author
