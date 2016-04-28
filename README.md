@@ -7,7 +7,7 @@ Nice way to present your Top Products on your website!!
 This plugin will create a simple image slider with icon controls and overlay text.
 <br>
 <br>
-<b>Documentation:</b> http://www.codehandling.com/2016/03/icon-slider-documentation.html
+<b>Documentation:</b> http://www.codehandling.com/2016/04/product-showcase-slider-with-icons.html
 <br>
 <b>Demo:</b> http://demos.codehandling.com/product-showcase/product_showcase.html
 <br>
